@@ -1,0 +1,13 @@
+﻿  Building Custom Rule D:/GitHub/wavelib/src/CMakeLists.txt
+  conv.c
+  cwt.c
+  cwtmath.c
+  hsfft.c
+  real.c
+  wavefilt.c
+D:\GitHub\wavelib\src\wavefilt.c(3136,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  wavefunc.c
+  wavelib.c
+  wtmath.c
+  正在產生程式碼...
+  wavelib.vcxproj -> D:\GitHub\wavelib\build\Bin\Debug\wavelib.lib
